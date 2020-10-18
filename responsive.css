@@ -37,6 +37,14 @@
   }
   
   /* Add CSS for header-right */
+  .header-right {
+    display: none;
+  }
+  
+  /* Add CSS for menu-icon */
+  .menu-icon {
+    display: block;
+  }
   
   .top-wrapper h1 {
     font-size: 24px;
